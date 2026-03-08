@@ -27,10 +27,10 @@ Admin Panel Architecture
 ### MK Field Ops
 A field operation management system designed for structured workflow and operational project tracking.
 
-### MK Digital Systems
+### MK Digital Systems  https:/https://mk-digital-systems.vercel.app/en
 Official website and digital platform of MK Digital Systems focused on web, software and digital solutions.
 
-### Mustafa Personal Site
+### Mustafa Personal Site   https://mustafaoner.net
 Personal developer website presenting projects, experience and portfolio work.
 
 ### Kadraj Rotam
