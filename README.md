@@ -95,19 +95,19 @@ Admin Panel Mimarisi
 ### MK Field Ops
 Saha operasyonlarının yönetimi ve proje takibi için geliştirilmiş bir operasyon yönetim sistemi.
 
-### MK Digital Systems
+### MK Digital Systems    https://mk-digital-systems.vercel.app/en
 Web, yazılım ve dijital çözümler odaklı MK Digital Systems platformunun resmi web sitesi.
 
-### Mustafa Personal Site
+### Mustafa Personal Site     https://mustafaoner.net
 Projeleri, deneyimleri ve portföy çalışmalarını sunan kişisel geliştirici web sitesi.
 
-### Kadraj Rotam
+### Kadraj Rotam        https://kadrajrotam.com.tr
 Fotoğraf ve seyahat temelli dijital içerik ve görsel anlatım platformu.
 
-### Gönül Pusulası
+### Gönül Pusulası             https://gonulpusulasi.com
 Tematik içerik ve dijital hikaye anlatımı için tasarlanmış konsept platform.
 
-### Şiir Dünyası
+### Şiir Dünyası      https://siirdunyasi.com.tr
 Şiir içerikleri üzerine kurulu yaratıcı bir dijital platform.
 
 ### Mavi Kadraj   https://mavikadraj.com.tr
