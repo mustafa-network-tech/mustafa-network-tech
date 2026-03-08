@@ -27,20 +27,26 @@ Admin Panel Architecture
 ### MK Field Ops
 A field operation management system designed for structured workflow and operational project tracking.
 
-### MK Digital Systems  https:/https://mk-digital-systems.vercel.app/en
+### MK Digital Systems      https://mk-digital-systems.vercel.app/en
 Official website and digital platform of MK Digital Systems focused on web, software and digital solutions.
 
 ### Mustafa Personal Site   https://mustafaoner.net
 Personal developer website presenting projects, experience and portfolio work.
 
-### Kadraj Rotam
+### Kadraj Rotam      https://kadrajrotam.com.tr
 A photography based travel platform project focused on visual storytelling and digital presentation.
 
-### Gönül Pusulası
+### Gönül Pusulası       https://gonulpusulasi.com
 A concept platform designed for thematic content and digital storytelling.
 
-### Şiir Dünyası
+### Şiir Dünyası        https://siirdunyasi.com.tr
 A creative web platform focused on poetry content and digital presentation.
+
+### Mavi Kadraj   https://mavikadraj.com.tr
+
+Mavi Kadraj is a visual storytelling and photography platform focused on nature, travel and authentic moments.  
+The project combines photography, digital publishing and web presentation to create a simple but powerful visual experience.  
+It is designed as a long-term creative platform where photographs, stories and visual narratives can be shared through modern web technologies.
 
 ---
 
@@ -51,6 +57,7 @@ Business Website Development
 Custom Web Platforms  
 Admin Panel Systems  
 Project Based Web Architectures  
+
 
 ---
 
@@ -102,6 +109,11 @@ Tematik içerik ve dijital hikaye anlatımı için tasarlanmış konsept platfor
 
 ### Şiir Dünyası
 Şiir içerikleri üzerine kurulu yaratıcı bir dijital platform.
+
+### Mavi Kadraj   https://mavikadraj.com.tr
+Mavi Kadraj; doğa, seyahat ve gerçek anların görsel anlatımına odaklanan bir fotoğraf ve dijital hikâye anlatımı platformudur.  
+Fotoğraf, dijital yayıncılık ve web sunumunu bir araya getirerek sade ama güçlü bir görsel deneyim oluşturmayı amaçlar.  
+Bu proje; fotoğrafların, hikâyelerin ve görsel anlatıların modern web teknolojileri ile sunulabileceği uzun vadeli bir yaratıcı platform olarak tasarlanmıştır.
 
 ---
 
